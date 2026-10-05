@@ -47,6 +47,4 @@ Fingerprint Sensor
         |
         v
   Web Dashboard
-<img width="1600" height="1200" alt="flask image" src="https://github.com/user-attachments/assets/8cac1859-9c63-45f0-9c8c-777b34fe4e83" />
 
-<img width="1440" height="1080" alt="terrible design" src="https://github.com/user-attachments/assets/67da30c0-003d-408b-895f-d297c1a9ec18" />
