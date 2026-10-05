@@ -12,8 +12,8 @@
 // WIFI SETTINGS
 // =====================================================
 
-const char* WIFI_NAME = "homnath25_2";
-const char* WIFI_PASSWORD = "HSAA@2024";
+const char* WIFI_NAME = "ashim_25";
+const char* WIFI_PASSWORD = "#########";
 
 
 // Laptop Flask server
